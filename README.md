@@ -1,5 +1,5 @@
 # Commands-Shell-Linux
-This Project have implemented some important commands like grep cut 
+This Project has implemented some important commands like grep cut 
 
 Task 1
 - Timp de implementare: 4 ore
